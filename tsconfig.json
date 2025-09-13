@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES2020",
+      "module": "commonjs",
+      "outDir": "js",
+      "declaration": true,
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "strictNullChecks": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+    },
+    "include": [
+      "lib"
+    ]
+  }
+  

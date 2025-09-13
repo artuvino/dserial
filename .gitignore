@@ -1,0 +1,7 @@
+*.tgz
+
+# Compiled bin addons
+build
+
+node_modules
+js
